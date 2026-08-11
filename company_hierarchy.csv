@@ -1,0 +1,9 @@
+EmployeeID,Position,FirstName,LastName,ReportsTo
+1,Chief Financial Officer,Brian,Otieno,Alice Mwangi
+2,Chief Technology Officer,Carol,Kamau,Alice Mwangi
+3,Finance Manager,David,Njoroge,Brian Otieno
+4,Software Engineering Manager,Elena,Wanjiku,""
+5,Financial Analyst,Irene,Akinyi,David Njoroge
+6,Senior Accountant,Frank,Ochieng,David Njoroge
+7,Senior Software Engineer,Grace,Kiptoo,Elena Wanjiku
+8,Software Engineer,Henry,Maina,Elena Wanjiku
